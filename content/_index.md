@@ -8,7 +8,7 @@ header_button_cta:
 header_button_more:
   url: "#the-future---today"
   title: Why this is awesome?
-teaser_image: images/teaser.jpg
+teaser_image: "/3rdi_construction_technology_consulting.jpg"
 
 ---
 # The Future - Today!
